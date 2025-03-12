@@ -1,0 +1,7 @@
+.rs{
+    color: white;
+    background: #001030;
+    position: relative;
+    height: 75vh;
+    overflow-y: scroll;
+}
